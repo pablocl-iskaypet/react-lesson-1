@@ -3,7 +3,6 @@ import {Home} from "./screens/home"
 
 
 const App = () =>{
-  const data ="Bienvenido a esta prueba de react"
   return (
     <>
     <Home/>
